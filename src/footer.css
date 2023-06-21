@@ -1,0 +1,27 @@
+#footerWrap{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    z-index: 9999;
+    background-color: #D2E1FF;
+    border-radius: 20px 20px 0 0;
+    width: 100vw;
+    height: 80px;
+
+  }
+  
+  .footer{
+    text-align: center;
+    height: 80px;
+    line-height: 80px;
+    font-weight: bold;
+    color: black;
+  }
+
+  .footer .fot_logo{
+    display: block;
+    width: 100%;
+    height: 80px;
+    color: #423F3F;
+    font-size: 1.7em;
+  }

@@ -1,0 +1,39 @@
+#Sub02_container{
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+    margin-top: 100px;
+    padding-bottom: 100px;
+  }
+  
+  .Sub02_box1{
+    height: 300px;
+    line-height: 300px;
+    border: 1px solid #000000;
+    border-radius: 20px;
+  }
+  
+  .Sub02_bar1{
+    height: 50px;
+    line-height: 50px;
+    text-align: left;
+    background-color: #808080;
+    margin-top: 20px;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+  
+  }
+  
+  .Sub02_box2{
+    margin-top: 10px;
+    margin-left: 5px;
+    height: 110px;
+    line-height: 110px;
+    border-radius: 50%;
+    border: 1px solid #000000;
+  }
+  
+  .Sub02_box3{
+    margin-top: 5px;
+  }

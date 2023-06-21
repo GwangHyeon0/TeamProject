@@ -1,0 +1,33 @@
+#Sub03_container{
+    padding: 30px;
+    padding-top: 0;
+    box-sizing: border-box;
+    margin-top: 100px;
+    padding-bottom: 150px;
+  }
+  
+  .Sub03_bar1{
+    height: 50px;
+    line-height: 50px;
+    font-weight: bold;
+    text-align: left;
+    background-color: #808080;
+    color: white;
+    margin-top: 0px;
+  }
+  
+  .Sub03_box1{
+    height: 300px;
+    line-height: 300px;
+    border: 1px solid #000000;
+    margin-top: 20px;
+    margin-bottom: 50px;
+  }
+  
+  .Sub03_box2{
+    height: 140px;
+    margin: 5px;
+    margin-top: 20px;
+    border: 1px solid #000000;
+    border-radius: 50%;
+  }
